@@ -24,7 +24,7 @@ The dataset is sourced from Kaggle:
 5. **Data Cleaning**
    - Renamed columns for better readability.
    - Converted humidity to percentage.
-   - Mapped numerical codes in the `season` and `weather_code` columns to human-readable values.
+   - Mapped numerical codes in the `season` and `weather_code` columns to readable values.
 
 6. **Export Cleaned Data**
    - The cleaned dataset is exported to an Excel file (`london_bikes_final.xlsx`) for further visualization in Tableau.
